@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: petshop
-        image: sevenajay/petshop:latest
+        image: manikanta2804/petshop:latest
         ports:
         - containerPort: 8080
         imagePullPolicy: Always
@@ -31,4 +31,4 @@ spec:
   - name: http
     protocol: TCP
     port: 80
-    targetPort: 80810
+    targetPort: 8080
