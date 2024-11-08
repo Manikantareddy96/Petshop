@@ -340,7 +340,7 @@
       </properties>
     </profile>
     <profile>
-      <id>tomee81</id>
+      <id>tomee80</id>
       <properties>
         <tomee.major-version>8</tomee.major-version>
         <tomee.version>8.0.13</tomee.version>
